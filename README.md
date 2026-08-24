@@ -6,9 +6,9 @@ Anthropic/OpenAI APIs, or a normal shell; save reusable Markdown briefs; and
 keep prompt files, templates, and history on your machine.
 
 [Website](https://quillterminal.app) ·
-[14-day trial](https://quillterminal.app/pricing?src=github_releases) ·
+[14-day trial](https://quillterminal.app/pricing?utm_source=github&utm_medium=release_hub) ·
 [Documentation](https://quillterminal.app/docs) ·
-[Downloads](https://quillterminal.app/download?src=github_releases) ·
+[Downloads](https://quillterminal.app/download?utm_source=github&utm_medium=release_hub) ·
 [Latest release](https://github.com/arafayrs95/quill-terminal-releases/releases/latest)
 
 ![Quill Terminal Compose and Preview](https://quillterminal.app/media/quill-social-card.png)
