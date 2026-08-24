@@ -1,0 +1,59 @@
+name: Bug report
+description: Report a reproducible Quill Terminal problem
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Remove prompts, credentials, license keys, private paths, and customer data. Email support@quillterminal.app for private or security-sensitive reports.
+  - type: input
+    id: version
+    attributes:
+      label: Quill version
+      description: Output of `quill --version`.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: OS and terminal
+      placeholder: macOS 15 / iTerm2, Windows 11 / Windows Terminal, Ubuntu 24.04 / kitty
+    validations:
+      required: true
+  - type: dropdown
+    id: target
+    attributes:
+      label: Target
+      options:
+        - Claude Code CLI
+        - Codex CLI
+        - Anthropic API
+        - OpenAI API
+        - Shell
+        - Editor or file workflow
+        - Account, license, or download
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest safe sequence that reproduces the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed prompts, credentials, license keys, private paths, and customer data.
+          required: true
+

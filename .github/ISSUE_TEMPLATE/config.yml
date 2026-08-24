@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private account, billing, or security support
+    url: mailto:support@quillterminal.app
+    about: Use email when the report contains private data or concerns billing, licenses, or security.
+  - name: Quill Terminal documentation
+    url: https://quillterminal.app/docs
+    about: Installation, configuration, keyboard, provider, pipe, and troubleshooting guides.
