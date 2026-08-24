@@ -9,7 +9,7 @@ keep prompt files, templates, and history on your machine.
 [14-day trial](https://quillterminal.app/pricing?src=github_releases) ·
 [Documentation](https://quillterminal.app/docs) ·
 [Downloads](https://quillterminal.app/download?src=github_releases) ·
-[Latest release](https://github.com/arafayrs95/quill-terminal/releases/latest)
+[Latest release](https://github.com/arafayrs95/quill-terminal-releases/releases/latest)
 
 ![Quill Terminal Compose and Preview](https://quillterminal.app/media/quill-social-card.png)
 
@@ -55,4 +55,3 @@ instead of posting sensitive information publicly.
 
 The commercial source code is private. This public repository is the release,
 support, changelog, and security-policy home for customers and reviewers.
-

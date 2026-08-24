@@ -1,7 +1,7 @@
 # Public changelog
 
 The latest customer-facing release notes are published with each immutable
-[GitHub release](https://github.com/arafayrs95/quill-terminal/releases) and on
+[GitHub release](https://github.com/arafayrs95/quill-terminal-releases/releases) and on
 the [Quill Terminal download page](https://quillterminal.app/download).
 
 ## 0.12.1 — 2026-08-20
@@ -18,4 +18,3 @@ the [Quill Terminal download page](https://quillterminal.app/download).
   checksums, Sigstore evidence, SBOM, and post-publication acceptance.
 
 Earlier release notes remain available from the GitHub Releases page.
-

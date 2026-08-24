@@ -16,12 +16,12 @@ investigate and prepare a coordinated fix before publishing details.
 
 ## Release verification
 
-Official binaries are linked from <https://quillterminal.app/download> and
-<https://github.com/arafayrs95/quill-terminal/releases>. Each release includes
-SHA-256 checksums, a Sigstore bundle, and a CycloneDX SBOM. Follow the website
-documentation to verify a download before running it.
+Official binaries are linked from <https://quillterminal.app/download>. Public
+release notes also live at
+<https://github.com/arafayrs95/quill-terminal-releases/releases>. Each release
+includes SHA-256 checksums, a Sigstore bundle, and a CycloneDX SBOM. Follow the
+website documentation to verify a download before running it.
 
 The initial demand-validation macOS and Windows packages are unsigned. Treat
 an unexpected filename, digest mismatch, different download host, or missing
 release evidence as suspicious and contact support.
-
